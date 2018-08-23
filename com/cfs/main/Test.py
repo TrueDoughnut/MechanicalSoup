@@ -1,6 +1,5 @@
 import mechanicalsoup
 
-
 def run():
     # create the browser object
     browser = mechanicalsoup.StatefulBrowser()
